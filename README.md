@@ -3,10 +3,7 @@
 ## Project Overview
 This project analyzes energy consumption data to uncover trends, patterns, and insights that can inform energy efficiency strategies and cost optimization. The analysis explores consumption patterns across different categories, regions, and time periods to identify opportunities for reducing energy usage and improving sustainability.
 
-![Dashboard Preview](https://raw.githubusercontent.com/ayyad42/Energy_Consumption/refs/heads/main/source/Dashboard1PNG.PNG)
-
-*Interactive Dashboard GIF:*  
-![Interactive Dashboard Demo](https://github.com/ayyad42/Energy_Consumption/blob/main/source/Project1.GIF)
+![Interactive Dashboard Demo](https://raw.githubusercontent.com/ayyad42/Energy_Consumption/refs/heads/main/source/Project1.GIF)
 
 ## Data Source
 The dataset was sourced from [Nikhil Sawhney's Power BI repository](https://github.com/Nikhil-Sawhney/Power-BI/tree/main/Energy%20Consumption%20Dashboard). The original dataset contains information about energy consumption across various categories and time periods.
